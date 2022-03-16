@@ -38,7 +38,9 @@ To execute, run "app" executable with following arguments:
 
 If fewer arguments are passed, the application will ask for the arguments interactively.
 	
-Test suite is available in tests folder with micro, mini and full packages available. Each package consists of selected student projects, consisting of ~1000 or more lines of code.
+Test suite is available in tests folder with micro, mini and full packages available. Each package consists of selected student projects, consisting of ~1000 or more lines of code. Tests are given in compressed tarball. Before proceeding, decompress them with the following command:
+
+	tar -xjf test_suite.tar.bz2
 
 # References
 	
